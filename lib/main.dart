@@ -12,3 +12,12 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
+/** openweathermap.org API key:
+ * 9626bfcc23a8bf04ae7d33a02cdb0d27
+ */
+
+/** url:
+ * api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={your api key}
+ *
+ */
